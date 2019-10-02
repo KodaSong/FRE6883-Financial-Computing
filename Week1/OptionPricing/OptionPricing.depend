@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1568048800 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\function2.cpp
+	"Function1.h"
+	"Function2.h"
+	<iostream>
+	<cmath>
+
+1568047002 d:\nyu\syllabus\cpp 6883\week1\optionpricing\function2.h
+
+1568049035 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\function1.cpp
+	"Function1.h"
+	<iostream>
+	<cmath>
+
+1568045214 d:\nyu\syllabus\cpp 6883\week1\optionpricing\function1.h
+
+1568054187 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\main.cpp
+	"BinModel01.h"
+	"Option02.h"
+	<iostream>
+	<cmath>
+
+1568054096 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\option02.cpp
+	"Option02.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568053338 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\option01.cpp
+	"Option01.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568053478 d:\nyu\syllabus\cpp 6883\week1\optionpricing\option01.h
+
+1568054180 d:\nyu\syllabus\cpp 6883\week1\optionpricing\binmodel01.h
+
+1568054154 source:d:\nyu\syllabus\cpp 6883\week1\optionpricing\binmodel01.cpp
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568054187 d:\nyu\syllabus\cpp 6883\week1\optionpricing\option02.h
+
