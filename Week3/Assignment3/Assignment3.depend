@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569859862 source:d:\nyu\syllabus\cpp 6883\week3\assignment3\defint.cpp
+	"DefInt.h"
+	<iostream>
+	<cmath>
+
+1569859862 d:\nyu\syllabus\cpp 6883\week3\assignment3\defint.h
+
+1569858071 source:d:\nyu\syllabus\cpp 6883\week3\assignment3\main.cpp
+	<iostream>
+	"DefInt.h"
+	<cmath>
+
