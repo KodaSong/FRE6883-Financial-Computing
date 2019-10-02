@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1569453352 source:d:\nyu\syllabus\cpp 6883\week2\assignment2\binmodel01.cpp
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1569453428 d:\nyu\syllabus\cpp 6883\week2\assignment2\binmodel01.h
+
+1568661291 source:d:\nyu\syllabus\cpp 6883\week2\assignment2\main07.cpp
+	"BinModel01.h"
+	"Option03.h"
+	<iostream>
+	<cmath>
+
+1568661181 d:\nyu\syllabus\cpp 6883\week2\assignment2\option03.h
+
+1568661476 source:d:\nyu\syllabus\cpp 6883\week2\assignment2\option03.cpp
+	"Option03.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+

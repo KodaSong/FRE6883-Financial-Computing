@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Assignment1" />
+		<Option title="Pointer" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Assignment1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Pointer" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Assignment1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Pointer" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,11 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="BinModel02.cpp" />
-		<Unit filename="BinModel02.h" />
-		<Unit filename="Option02.cpp" />
-		<Unit filename="Option02.h" />
-		<Unit filename="main.cpp" />
+		<Unit filename="BinModel01.cpp" />
+		<Unit filename="BinModel01.h" />
+		<Unit filename="Option03.cpp" />
+		<Unit filename="Option03.h" />
+		<Unit filename="main07.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

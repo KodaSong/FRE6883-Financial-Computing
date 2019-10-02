@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1568645336 source:d:\nyu\syllabus\cpp 6883\week2\pointer\main.cpp
+	"BinModel01.h"
+	"Option03.h"
+	<iostream>
+	<cmath>
+
+1568054180 d:\nyu\syllabus\cpp 6883\week2\pointer\binmodel01.h
+
+1568643939 d:\nyu\syllabus\cpp 6883\week2\pointer\option02.h
+
+1568054154 source:d:\nyu\syllabus\cpp 6883\week2\pointer\binmodel01.cpp
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568643928 source:d:\nyu\syllabus\cpp 6883\week2\pointer\option02.cpp
+	"Option02.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568661476 source:d:\nyu\syllabus\cpp 6883\week2\pointer\option03.cpp
+	"Option03.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1568661181 d:\nyu\syllabus\cpp 6883\week2\pointer\option03.h
+
+1568661291 source:d:\nyu\syllabus\cpp 6883\week2\pointer\main07.cpp
+	"BinModel01.h"
+	"Option03.h"
+	<iostream>
+	<cmath>
+
