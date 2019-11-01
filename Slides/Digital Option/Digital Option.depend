@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572578015 source:d:\codes\financial computing\digital option\binmodel01.cpp
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1572577984 d:\codes\financial computing\digital option\binmodel01.h
+
+1572578279 source:d:\codes\financial computing\digital option\option03.cpp
+	"Option03.h"
+	"BinModel01.h"
+	<iostream>
+	<cmath>
+
+1572578577 d:\codes\financial computing\digital option\option03.h
+

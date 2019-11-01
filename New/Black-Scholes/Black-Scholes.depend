@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1568671236 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes currency option\cdf.cpp
+	"CDF.h"
+	<iostream>
+	<cmath>
+
+1568671177 d:\nyu\syllabus\cpp 6883\self_function\black-scholes currency option\cdf.h
+
+1569298792 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes currency option\main.cpp
+	<iostream>
+	"Option01.h"
+	"CDF.h"
+
+1569298393 d:\nyu\syllabus\cpp 6883\self_function\black-scholes currency option\option01.h
+
+1569298946 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes currency option\option01.cpp
+	"Option01.h"
+	"CDF.h"
+	<iostream>
+	<cmath>
+
+1568671236 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes\cdf.cpp
+	"CDF.h"
+	<iostream>
+	<cmath>
+
+1568671177 d:\nyu\syllabus\cpp 6883\self_function\black-scholes\cdf.h
+
+1572575327 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes\main.cpp
+	<iostream>
+	"Option.h"
+
+1569298393 d:\nyu\syllabus\cpp 6883\self_function\black-scholes\option01.h
+
+1569298946 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes\option01.cpp
+	"Option01.h"
+	"CDF.h"
+	<iostream>
+	<cmath>
+
+1572574834 d:\nyu\syllabus\cpp 6883\self_function\black-scholes\option.h
+
+1572575327 source:d:\nyu\syllabus\cpp 6883\self_function\black-scholes\option.cpp
+	"Option.h"
+	<iostream>
+	<cmath>
+

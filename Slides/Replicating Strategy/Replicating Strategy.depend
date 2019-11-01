@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1572580492 source:d:\codes\financial computing\slides\replicating strategy\main.cpp
+	<iostream>
+	<fstream>
+	"BinLattice02.h"
+	"BinModel02.h"
+	"Option09.h"
+
+1572496860 d:\codes\financial computing\slides\replicating strategy\binlattice02.h
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+
+1572495992 d:\codes\financial computing\slides\replicating strategy\binmodel02.h
+
+1572489891 d:\codes\financial computing\slides\replicating strategy\option09.h
+	"BinLattice02.h"
+	"BinModel02.h"
+

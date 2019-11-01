@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572579278 source:d:\codes\financial computing\slides\defint\main.cpp
+	<iostream>
+	"DefInt.h"
+	<cmath>
+	<iomanip>
+
+1572579296 d:\codes\financial computing\slides\defint\defint.h
+
+1572579329 source:d:\codes\financial computing\slides\defint\defint.cpp
+	"DefInt.h"
+	<iostream>
+	<cmath>
+
