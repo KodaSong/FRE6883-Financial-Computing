@@ -41,3 +41,24 @@
 	<iostream>
 	<cmath>
 
+1572576609 source:d:\codes\financial computing\slides\euroption2\binmodel02.cpp
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+
+1572576105 d:\codes\financial computing\slides\euroption2\binmodel02.h
+
+1572576665 source:d:\codes\financial computing\slides\euroption2\main.cpp
+	"BinModel02.h"
+	"Option02.h"
+	<iostream>
+	<cmath>
+
+1572576105 d:\codes\financial computing\slides\euroption2\option02.h
+
+1572576616 source:d:\codes\financial computing\slides\euroption2\option02.cpp
+	"Option02.h"
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+

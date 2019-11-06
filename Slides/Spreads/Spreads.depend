@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1572639150 source:d:\codes\financial computing\slides\spreads\binmodel02.cpp
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+
+1572639150 d:\codes\financial computing\slides\spreads\binmodel02.h
+
+1570389390 source:d:\codes\financial computing\slides\spreads\main10.cpp
+	"BinModel02.h"
+	"Option06.h"
+	<iostream>
+
+1570389390 d:\codes\financial computing\slides\spreads\option06.h
+	"BinModel02.h"
+
+1572639172 source:d:\codes\financial computing\slides\spreads\option06.cpp
+	"Option06.h"
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+

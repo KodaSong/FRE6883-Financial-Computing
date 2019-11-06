@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1572639530 source:d:\codes\financial computing\slides\double digit\binmodel02.cpp
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+
+1572639512 d:\codes\financial computing\slides\double digit\binmodel02.h
+
+1572639776 source:d:\codes\financial computing\slides\double digit\option06.cpp
+	"Option06.h"
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+
+1571175093 d:\codes\financial computing\slides\double digit\option06.h
+	"BinModel02.h"
+

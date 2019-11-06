@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572580859 source:d:\codes\financial computing\slides\non linear solver\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Solver03.h"
+
+1572560724 d:\codes\financial computing\slides\non linear solver\solver03.h
+	<cmath>
+
