@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1573141015 source:d:\codes\financial computing\slides\greeks\bsmodel01.cpp
+	"BSModel01.h"
+	<cmath>
+
+1573141015 d:\codes\financial computing\slides\greeks\bsmodel01.h
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1573181008 source:d:\codes\financial computing\slides\greeks\main21.cpp
+	<iostream>
+	"BSModel01.h"
+	"PathDepOption03.h"
+
+1573180446 d:\codes\financial computing\slides\greeks\pathdepoption03.h
+	"BSModel01.h"
+
+1573180444 source:d:\codes\financial computing\slides\greeks\pathdepoption03.cpp
+	"PathDepOption03.h"
+	<cmath>
+
+1573183540 source:d:\codes\financial computing\slides\greeks\bsmodel.cpp
+	"BSModel.h"
+	<cmath>
+
+1573183590 d:\codes\financial computing\slides\greeks\bsmodel.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1573184360 source:d:\codes\financial computing\slides\greeks\pathdepoption.cpp
+	"PathDepOption.h"
+	<cmath>
+
+1573184857 d:\codes\financial computing\slides\greeks\pathdepoption.h
+	"BSModel.h"
+
