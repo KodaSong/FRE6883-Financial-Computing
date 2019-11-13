@@ -32,10 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="CDF.cpp" />
-		<Unit filename="CDF.h" />
-		<Unit filename="Option01.cpp" />
-		<Unit filename="Option01.h" />
+		<Unit filename="Option.cpp" />
+		<Unit filename="Option.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

@@ -45,3 +45,14 @@
 	<iostream>
 	<cmath>
 
+1572571727 source:d:\codes\financial computing\black-scholes\main.cpp
+	<iostream>
+	"Option.h"
+
+1572571234 d:\codes\financial computing\black-scholes\option.h
+
+1572571727 source:d:\codes\financial computing\black-scholes\option.cpp
+	"Option.h"
+	<iostream>
+	<cmath>
+
